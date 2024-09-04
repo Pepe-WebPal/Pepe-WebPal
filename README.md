@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Pepe-WebPal
+- 👀 I’m interested in programming Websites and just trying different methodes.
+- 🌱 I’m currently learning HTML and CSS.
+- 📫 You can reach me under pr.wollmann@gmail.com
+- 😄 Pronouns: he/him, male
+- ⚡ Fun fact: I always switch between MacOS and Windows. 
+- 🐶 Dogs are better than cats.
